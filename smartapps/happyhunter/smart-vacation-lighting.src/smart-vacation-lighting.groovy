@@ -39,7 +39,7 @@ definition(
     name: "Smart Vacation Lighting",
     namespace: "HappyHunter",
     author: "Alexandr Filenkov",
-    description: "test",
+    description: "Controls lights with some random delay to simulate home occupancy.",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
